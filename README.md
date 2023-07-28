@@ -1,2 +1,2 @@
-# tictactoe
-A little tic-tac-toe react exercise
+# Getting Started with 井字棋
+
